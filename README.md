@@ -1,6 +1,6 @@
 # talentgridProjects
 
-There is a website http://demo.redmine.org/
+There is a website http://demo.redmine.org/ .
 An account is created.
 Login page is controled. 
 My account page functions is controled.
